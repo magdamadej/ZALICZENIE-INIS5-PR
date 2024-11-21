@@ -19,8 +19,3 @@ main section img {
     height: 250px;
     object-fit: cover;
 }
-/*dodałem dopasowyanie zdjęcia do obrazu by przy przełorzeniu strony na części ereanu tygrys się nie tnoł w pół */
-img{
-max-width: auto;
-max-height: fit-content;
-}
